@@ -1,0 +1,21 @@
+{
+    "full_name": "Sumeet M. Yadav",
+    "name": "Sunny",
+    "current_role": "Senior Application Developer",
+    "location": "Navi Mumbai",
+    "email": "sy81208@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sumeet-yadav-41b20883/",
+    "specialties": [
+      "Agentic AI",
+      "Mobile Application Developer",
+      "Backend Developer"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "B.E",
+        "institution": "B.A.M.U",
+        "year": "2014"
+      }
+    ]
+  }
